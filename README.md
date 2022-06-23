@@ -12,6 +12,8 @@ This project is a visualization and an analysis of the Kickstarter data set. The
   We are analyzing The Theater outcomes by the day they were set to Launch. The line chart shows that the highest month for successful funding campaigns is in May. The chart started trending up in April and started slowing down towards the end of the summer months. 
 The failed campaigns were consistent throughout the year. They averaged about 41 failed campaigns per month which is accurately represented by looking at the blue line for ‘failed’. There were not many cancellations throughout the year.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107590196/175203847-81afbe75-104f-4307-80cc-37fa5c4d4c0a.png)
+
 ### Analysis of Outcomes Based on Goals
   We are analyzing the Percentage of successful fundraising goals met depending on their goal amounts. By looking at the chart titled ‘Outcome Based on Goal’ we can gather that the lower the goal amount the higher the percentage of success the campaigns have. Campaigns that have goals under $5,000 had a success rate of over 70%. As the Goal amount increased the there was a decline in successful funding goals. The successful campaigns dropped to 20% from $25,000 - $29,999 and then increased to a success rate of to 67% for goal amounts $35,000 - $44,999. 
 
