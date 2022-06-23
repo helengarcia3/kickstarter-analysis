@@ -4,7 +4,7 @@ Performing analaysis on Kickstarter data to uncover trends
 ## Overview of Project
   Louise wants to know how other fundraising campaigns for Plays and Theaters compare to her play Fever. She was able to fund her campaign fairly quickly and she wants to see how other campaigns around the world have performed. We will dig into different outcomes based off how successful other projects have been in relation their funding goals and the launch dates. This will give Louise an idea of how her play compared to others.
 ### Purpose
-TThis project is a visualization and an analysis of the Kickstarter data set. The purpose of this analysis is to see how Louise’s play Fever compares to funding for all of the other plays and theater sub categories across the world. We want to see if the goal amounts and month of launch date play a significate roll on whether the campaign meets its funding goals or not. 
+This project is a visualization and an analysis of the Kickstarter data set. The purpose of this analysis is to see how Louise’s play Fever compares to funding for all of the other plays and theater sub categories across the world. We want to see if the goal amounts and month of launch date play a significate roll on whether the campaign meets its funding goals or not. 
 
 ## Analysis and Challenges
 
